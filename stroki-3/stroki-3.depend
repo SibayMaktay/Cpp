@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1740562684 source:c:\users\sibay\documents\cpp\project\stroki-3\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+
