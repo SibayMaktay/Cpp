@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1750134151 source:c:\users\sibay\documents\cpp\project\bdbfgdf\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+

@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-class metod_kramera
+class metod_gaussa
 {
 public:
     float A (float m_1_1, float m_1_2, float m_1_3, float m_2_1, float m_2_2, float m_2_3, float m_3_1, float m_3_2, float m_3_3)
@@ -13,7 +13,7 @@ public:
 };
 int main()
 {
-    metod_kramera obj_1;
+    metod_gaussa obj_1;
     setlocale (LC_ALL, "Russian");
     float M[3][4], x, y, z, w;
     cout << "¬ведите 1 строку и 1 столбец матрицы = "; cin >> M[0][0];
